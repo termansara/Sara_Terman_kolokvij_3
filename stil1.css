@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+   color: white;
+   font-family:"Courier New", "Courier New", "Courier";
+   font-size: 20px;
+   line-height: 25px;
+   width: 1500px;
+   background-color: #E0BFB8;
+   padding: 20px;
+}
+
+ h2 {
+	font-family:"Arial", "Helvetica", "sans-serif";
+	color: #AA336A;
+}
+h1 {
+	color: #770737;
+}
+body{
+	background-image: url("Fotografije/landscape-7283516_1280.jpg");
+}
