@@ -2,11 +2,11 @@
 /* CSS Document */
 @font-face {
     font-family: "SaraTerman";
-    src: url("fonts/SaraTerman.tff") format("truetype")
+    src: url("fonts/SaraTerman.tff") format("truetype");
 	
 }
 h1 {
-    font-family: "SaraTerman", serif;
+    font-family: "SaraTerman", sans-serif;
 }
 p {
    color: white;
@@ -27,4 +27,7 @@ h1 {
 }
 body{
 	background-image: url("Fotografije/landscape-7283516_1280.jpg");
+}
+.p1 {
+	font-family: "SaraTerman";
 }
