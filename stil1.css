@@ -11,6 +11,14 @@ p {
    background-color: #E0BFB8;
    padding: 20px;
 }
+
+ h2 {
+	font-family:"Arial", "Helvetica", "sans-serif";
+	color: #AA336A;
+}
+h1 {
+	color: #770737;
+}
 @font-face {
     font-family: "SaraTerman";
     src: url("vjezbe/1.vjezba/SaraTerman.tff") format("truetype");	
@@ -20,13 +28,6 @@ h1 {
     font-family: "SaraTerman", sans-serif;
 }
 
- h2 {
-	font-family:"Arial", "Helvetica", "sans-serif";
-	color: #AA336A;
-}
-h1 {
-	color: #770737;
-}
 body{
 	background-image: url("Fotografije/landscape-7283516_1280.jpg");
 }
