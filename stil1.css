@@ -19,7 +19,7 @@ h1 {
 }
 @font-face {
     font-family: "SaraTerman";
-src: url("vjezbe/1.vjezba/SaraTerman.tff") format("truetype");	
+src: url("1.vjezba/SaraTerman.tff") format("truetype");	
 }
 h1 {
     font-family: "SaraTerman.ttf", sans-serif;
