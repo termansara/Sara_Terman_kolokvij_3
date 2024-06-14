@@ -1,12 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
 @font-face {
-    font-family: 'SaraTerman';
-    src: url('fonts/SaraTerman.woff2') format('woff2')
+    font-family: "SaraTerman";
+    src: url("fonts/SaraTerman.tff.woff2") format("truetype")
 	
 }
 h1 {
-    font-family: 'SaraTerman', serif;
+    font-family: "SaraTerman", serif;
 }
 p {
    color: white;
